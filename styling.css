@@ -1,12 +1,11 @@
 h1 {
-    background-color: black; 
-    color: rgb(109, 199, 248);
+    background-color: black;
     
 }
 h2 {
     font-style: italic;
     background-color: purple;
-    color: white
+    color: white;
 }
 .is-centered {
     text-align: center;
@@ -14,5 +13,14 @@ h2 {
 h3 {
     text-align: right;
     background-color: lightblue;
-    color: black
+    color: blue
+}
+#cloud {
+    background-color: black;
+    color:aqua
+
+}
+#My {
+    background-color: black;
+    color: white;
 }
